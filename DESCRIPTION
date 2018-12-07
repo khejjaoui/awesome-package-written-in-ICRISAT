@@ -3,7 +3,7 @@ Type: Package
 Title: An awesome Set of R Functions
 Version: 0.1.0
 Author: Hejjaoui Kamal
-Maintainer: The package maintainer <hejjaouikamal@gmail.comt>
+Maintainer: hejjaoui Kamal <hejjaouikamal@gmail.comt>
 Description: An Awesome set of R Functions describing to demonstrate R Package
 License: GPL-3
 Encoding: UTF-8
